@@ -1,5 +1,5 @@
 # edge-feature extraction
-## prewitt, sobel and sachrr edge operators
+### prewitt, sobel and sachrr edge operators
 
 ### usage
 
